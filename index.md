@@ -3,3 +3,4 @@ Student: Hello TA, I am trying to figure out what is wrong with my merge method.
 ![Image0](image0.png)
 ![Image1](image1.png)
 ![Image2](image2.png)
+TA: Hello student, have you 
